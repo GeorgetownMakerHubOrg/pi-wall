@@ -15,6 +15,8 @@ http://matthewepler.github.io/2016/01/05/piwall.html
 3. Ethernet Switch (D-link for maker hub-- b/c it works)
 4. Mounting hardware?
 
+<img src="References/pi-wall_diagram.png" width="900px"/>
+
 ## Basic Setup
 
 1. Get pi

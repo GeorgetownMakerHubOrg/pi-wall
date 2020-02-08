@@ -24,14 +24,15 @@ https://docs.google.com/presentation/d/1myFOl4jbru_muShOQTJg2CYzb3ZMEWcTkCiGhK4s
 
 ## Basic Setup
 
-1. Get pi
-2. Install raspbian
-3. Update
-4. Download Pi Wall and pwomxplayer
-5. Download required packages for pwomxplayer
+1. Install raspbian, piwall and pwomxplayer on all pis.
+2. Download required packages for pwomxplayer
 ... > sudo apt-get install libgtk-3-dev
-6. Network Config Setup
-7. .piwall and .pitile setup
-8. Run test broadcasts over UDP w/sample video file.
-9. Create auto-run scripts
-10. Package everything into an auto-install script
+3. Configure network settings
+4. Setup monitors in semi-permanent arrangement
+5. Configure .piwall and .pitile files to reflect position and air gaps.
+6. Run test broadcasts over UDP w/sample video file to demo concept proof.
+
+## Advanced Setup
+
+1. Develop auto-run and video loop scripts
+2. Package everything into an auto-install script
